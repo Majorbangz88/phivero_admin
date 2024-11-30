@@ -23,6 +23,7 @@ function Login({setToken}) {
         }
     }
 
+    //Admin login
     return (
         <div className="min-h-screen flex items-center justify-center w-full">
             <div className="bg-white shadow-md rounded-lg px-6 max-w-md">
